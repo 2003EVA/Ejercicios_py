@@ -56,25 +56,25 @@ producto1.verificar_disponibilidad(8)
 producto1.vender(8)
 
 # Crear otro objeto
-producto1 = Producto("Audifonos", 500, 5)
+producto2 = Producto("Audifonos", 500, 5)
 
 # Verificar si hay suficientes unidades
-producto1.verificar_disponibilidad(3)
+producto2.verificar_disponibilidad(3)
 
 # Realizar una venta
-producto1.vender(2)
+producto2.vender(2)
 
 # Verificar disponibilidad nuevamente
-producto1.verificar_disponibilidad(8)
+producto2.verificar_disponibilidad(8)
 
 # Intentar vender más unidades
-producto1.vender(8)
+producto2.vender(8)
 
 # Agregar más stock al producto
-producto1.restablecer(14)
+producto2.restablecer(14)
 
 # Verificar disponibilidad otra vez
-producto1.verificar_disponibilidad(8)
+producto2.verificar_disponibilidad(8)
 
 # Realizar una nueva venta
-producto1.vender(8)
+producto2.vender(8)
