@@ -56,7 +56,7 @@ producto1.verificar_disponibilidad(8)
 producto1.vender(8)
 
 # Crear otro objeto
-producto1 = Producto("Audifinos", 500, 5)
+producto1 = Producto("Audifonos", 500, 5)
 
 # Verificar si hay suficientes unidades
 producto1.verificar_disponibilidad(3)
