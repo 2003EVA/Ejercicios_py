@@ -1,4 +1,4 @@
-# ejercicio_py
+# Ejercicio_py
 
 ## 📘 Descripción del proyecto
 
@@ -23,7 +23,7 @@ En estos ejercicios se practican los siguientes temas:
 
 ## 📂 Ejercicios incluidos
 
-### 1️⃣ Ejercicio: Libro
+### 1️⃣ Ejercicio: Biblioteca
 
 Clase `Libro` que permite representar un libro con su información básica.
 
@@ -35,7 +35,7 @@ Funciones:
 
 ---
 
-### 2️⃣ Ejercicio: Producto
+### 2️⃣ Ejercicio: Tienda
 
 Clase `Producto` que simula un pequeño sistema de inventario.
 
@@ -47,7 +47,7 @@ Funciones:
 
 ---
 
-### 3️⃣ Ejercicio: Vehículo
+### 3️⃣ Ejercicio: Autopista
 
 Clase `Vehiculo` que representa un automóvil.
 
@@ -60,7 +60,7 @@ Funciones:
 
 ---
 
-### 4️⃣ Ejercicio: Estudiante_nota
+### 4️⃣ Ejercicio: Estudiante_NOTA
 
 Clase `Estudiante` que permite gestionar la información académica de un estudiante.
 
@@ -75,12 +75,12 @@ Funciones:
 ## 🗂️ Estructura del proyecto
 
 ```id="mms94v"
-ejercicio_py
+ejercicioS_py
 │
-├── libro.py
-├── producto.py
-├── vehiculo.py
-├── estudiante_nota.py
+├── Biblioteca.py
+├── Tienda.py
+├── Autopista.py
+├── Estudiante_nota.py
 └── README.md
 ```
 
